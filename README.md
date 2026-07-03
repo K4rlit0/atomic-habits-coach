@@ -11,7 +11,7 @@ Ein kleiner KI-Skill, der die Methode aus James Clears "Atomic Habits" anwendet:
 
 **Schnell, ohne Setup:** Öffne `Atomic Habits Coach.md`, kopier den Text komplett in Claude und schreib dazu, welche Gewohnheit oder Routine du bauen willst. Claude fragt dann direkt weiter und baut deinen Plan.
 
-**Als fester Skill:** Installier die `.skill`-Datei in Claude bzw. Cowork. Dann startet der Coach automatisch, sobald du über Gewohnheiten oder Routinen sprichst.
+**Als fester Skill:** Installiere die `.skill`-Datei in Claude bzw. Cowork. Dann startet der Coach automatisch, sobald du über Gewohnheiten oder Routinen sprichst.
 
 ## Tipps
 
