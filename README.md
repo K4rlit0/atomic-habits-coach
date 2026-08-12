@@ -14,7 +14,6 @@ Skills gibt es in allen Claude-Plänen — Free, Pro, Max, Team und Enterprise.
 | **Cowork** | **Weg B** — die `.skill`-Datei |
 | **Handy · Firmen-Account ohne Skills · nur mal ausprobieren** | **Weg C** — Text einfügen, kein Setup |
 
-> ⚠️ **Nicht den grünen `Code`-Button oben rechts benutzen.** Der lädt das komplette Repository als ZIP — dieses ZIP akzeptiert Claude nicht. Nimm die Download-Links unten.
 
 ### Weg A — Als Skill in Claude (Browser und Desktop-App)
 
