@@ -1,6 +1,6 @@
 # Habits Coach
 
-Ein KI-Skill, der Gewohnheiten und Routinen nach einer erprobten Methodik baut. Du sagst, was du aufbauen oder loswerden willst. Er stellt ein paar Fragen zu deinem echten Tag — meist zum Anklicken statt zum Tippen — und baut daraus einen konkreten, getakteten Plan. Mit einer 2-Minuten-Startversion für die Tage, an denen nichts läuft.
+Ein KI-Skill, der Gewohnheiten und Routinen nach einer erprobten Methodik baut. Du sagst, was du aufbauen oder loswerden willst. Er stellt ein paar Fragen zu deinem echten Tag — meist zum Anklicken statt zum Tippen — und baut daraus einen konkreten, getakteten Plan. Mit einer niederschwelligen 2-Minuten-Startversion.
 
 ---
 
